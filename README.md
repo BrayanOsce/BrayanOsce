@@ -2,12 +2,18 @@
 ---
 
 - 🌱 Estoy estudiando desarrollo front-end (JS, HTML5, CSS3, Bootstrap). 
-- 📖 Actualmente me dedico al sector e-commerce/marketing digital como independiente. 
-- 🎓 Soy graduado de ingeniería agronómica, con experiencia en asistencia técnica a población rural o urbana de distintas edades. Cuento con habilidad en asesoramiento, supervisión, planeación, resolución de problemas, manejo de bases de datos, capacitación de personal, redacción.  
-- 📚 Mis cursos: 
+- 📊 Actualmente me dedico al sector e-commerce/marketing digital como independiente. 
+- 🎓 Soy graduado de ingeniería agronómica, con experiencia en asistencia técnica a población rural o urbana de distintas edades. Cuento con habilidad en asesoramiento, supervisión, planeación, resolución de problemas, manejo de bases de datos, capacitación de personal, redacción.
+  
+- 📖 Mis estudios:
+      ->2021 - PROGRAMACIÓN - MinTIC 2022. Virtual. 800 horas
+      ->2017 - INGENIERÍA AGRONÓMICA - UNIVERSIDAD NACIONAL DE COLOMBIA. 5 años.
+
+- 📚 Mis cursos:
     -> 2022 - FreeCodeCamp: Algoritmos de JavaScript y Estructuras de Datos. 
     -> 2022 - FreeCodeCamp: Diseño Web Responsivo. 
     -> 2020 - GOOGLE: Technical Support Fundamentals.
+    
 - 💙 Siempre he sido amante de la tecnología y lo que podemos lograr con ella.
 - 😄 Autodidacta, colaborador, creativo y analítico.
 <br>
