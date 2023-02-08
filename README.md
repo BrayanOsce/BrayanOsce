@@ -72,4 +72,4 @@
  
  ---
  ![brayanosce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanosce&show_icons=true&theme=prussian&border_color=dark)
- [![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/BrayanOsce/github-readme-stats))
+ [![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanOsce)](https://github.com/BrayanOsce/github-readme-stats))
